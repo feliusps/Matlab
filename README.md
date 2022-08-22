@@ -1,4 +1,4 @@
-# Matlab Specialization Coursera-Vanderbilt University
+# Matlab Coursera-Vanderbilt University
 Objetive:
 Computer programming in general and the MATLAB language in particular.
 Advanced MATLAB features such as the App Designer, Live Scripts and Object-Oriented Programming.
